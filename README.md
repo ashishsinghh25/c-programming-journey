@@ -8,4 +8,5 @@ My C programming learning journey
 2. using loops to multiplication of 7 tables.
 -Day 4 -- Loops revisio:
 1. using loops to multiplication of 2 tables,
-2. using loops to multiplication of the given number.
+2. using loops to multiplication of the given number,
+3. printing of even number.
