@@ -6,7 +6,7 @@ My C programming learning journey
 -Day 3 -- LOOPS TOPIC:
 1.while loop pgm that prints 1 to 10 ,
 2. using loops to multiplication of 7 tables.
--Day 4 -- Loops revisio:
+-Day 4 -- Loops revision:
 1. using loops to multiplication of 2 tables,
 2. using loops to multiplication of the given number,
 3. printing of even number.
