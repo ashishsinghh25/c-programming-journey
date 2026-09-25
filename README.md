@@ -31,3 +31,6 @@ My C programming learning journey
 5. Taking user input using `scanf()`
 6. Understanding string input and spaces
 7. Learned about `fgets()` for taking input with spaces
+
+
+- Day 6 -- Arrays: learned array declaration and indexing
